@@ -1,0 +1,30 @@
+# API Keys - NEVER push these
+backend/.env
+
+# Python virtual environment
+backend/venv/
+backend/.venv/
+
+# Python cache
+backend/__pycache__/
+backend/**/__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+
+# Temp uploaded files
+backend/temp/
+
+# Node modules
+frontend/node_modules/
+frontend/dist/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

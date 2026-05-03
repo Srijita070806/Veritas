@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #0a0f1e;
+  color: #f1f5f9;
+  font-family: 'Inter', sans-serif;
+}
